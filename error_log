@@ -1,0 +1,27 @@
+[11-Sep-2025 14:15:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect string value: '\xF0\x9F\x94\xA9 \xE2...' for column 'name' at row 1 in /home2/brickearthrealty/public_html/demonew.php:37
+Stack trace:
+#0 /home2/brickearthrealty/public_html/demonew.php(37): mysqli_query(Object(mysqli), 'INSERT INTO enq...')
+#1 {main}
+  thrown in /home2/brickearthrealty/public_html/demonew.php on line 37
+[11-Sep-2025 14:15:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect string value: '\xF0\x9F\x9B\xA0 \xE2...' for column 'name' at row 1 in /home2/brickearthrealty/public_html/brochure.php:37
+Stack trace:
+#0 /home2/brickearthrealty/public_html/brochure.php(37): mysqli_query(Object(mysqli), 'INSERT INTO enq...')
+#1 {main}
+  thrown in /home2/brickearthrealty/public_html/brochure.php on line 37
+[11-Sep-2025 14:15:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect string value: '\xF0\x9F\x94\x8C \xF0...' for column 'name' at row 1 in /home2/brickearthrealty/public_html/brochure.php:37
+Stack trace:
+#0 /home2/brickearthrealty/public_html/brochure.php(37): mysqli_query(Object(mysqli), 'INSERT INTO enq...')
+#1 {main}
+  thrown in /home2/brickearthrealty/public_html/brochure.php on line 37
+[12-Sep-2025 01:54:15 UTC] PHP Warning:  Undefined variable $urldomain in /home2/brickearthrealty/public_html/demonew.php on line 14
+[12-Sep-2025 01:54:16 UTC] PHP Warning:  Undefined variable $urldomain in /home2/brickearthrealty/public_html/demonew.php on line 15
+[12-Sep-2025 01:54:16 UTC] PHP Warning:  Undefined variable $urldomain in /home2/brickearthrealty/public_html/demonew.php on line 16
+[12-Sep-2025 01:54:19 UTC] PHP Warning:  Undefined variable $urldomain in /home2/brickearthrealty/public_html/brochure.php on line 14
+[12-Sep-2025 01:54:19 UTC] PHP Warning:  Undefined variable $urldomain in /home2/brickearthrealty/public_html/brochure.php on line 15
+[12-Sep-2025 01:54:19 UTC] PHP Warning:  Undefined variable $urldomain in /home2/brickearthrealty/public_html/brochure.php on line 16
+[12-Sep-2025 01:54:22 UTC] PHP Warning:  Undefined variable $urldomain in /home2/brickearthrealty/public_html/brochure.php on line 14
+[12-Sep-2025 01:54:22 UTC] PHP Warning:  Undefined variable $urldomain in /home2/brickearthrealty/public_html/brochure.php on line 15
+[12-Sep-2025 01:54:22 UTC] PHP Warning:  Undefined variable $urldomain in /home2/brickearthrealty/public_html/brochure.php on line 16
+[12-Sep-2025 01:54:25 UTC] PHP Warning:  Undefined variable $urldomain in /home2/brickearthrealty/public_html/demonew.php on line 14
+[12-Sep-2025 01:54:25 UTC] PHP Warning:  Undefined variable $urldomain in /home2/brickearthrealty/public_html/demonew.php on line 15
+[12-Sep-2025 01:54:25 UTC] PHP Warning:  Undefined variable $urldomain in /home2/brickearthrealty/public_html/demonew.php on line 16
